@@ -1,5 +1,12 @@
 # 📝 Task List
 
+[![HTML5](https://img.shields.io/badge/HTML-5-orange)](#)
+[![CSS3](https://img.shields.io/badge/CSS-3-blue)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow)](#)
+[![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![UI Icons](https://img.shields.io/badge/Icons-Unicons%20%26%20Ionicons-lightgrey)](https://ionic.io/ionicons)
+
 A simple and responsive task list web application built using **HTML**, **CSS**, and **JavaScript**. Users can add, complete, and delete tasks in a clean and interactive UI. This project is ideal for beginners to practice DOM manipulation and JavaScript event handling.
 
 ---
